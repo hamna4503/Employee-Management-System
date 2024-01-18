@@ -1,0 +1,7 @@
+12			Hamna		Manager		12345
+44			Alia		SQA		10000
+4			Maham		Developer	40000
+14			Abiha		Designer	50000
+88			Ahmed		Clerk		1000
+33			Meerab		Accountant	199999
+55			Rehman		Secetary	6000
